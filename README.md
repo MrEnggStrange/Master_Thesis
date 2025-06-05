@@ -1,6 +1,6 @@
 ---
 
-**📡ASCII Acknowledgment Response System for G4 Product Platforms*
+**📡ASCII Acknowledgment Response System for G4 Product Platforms
 G4 Sensor System
 
 Author: Joe Joseph Nelson
