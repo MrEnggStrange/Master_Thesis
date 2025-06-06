@@ -57,3 +57,19 @@ A centralized **command handler** and **acknowledgment generator** were integrat
     <max>50</max>
     <execution_time>15ms</execution_time>
   </acknowledgment>
+
+- 🔍 Command Validation
+
+- 🧰 Error Handling with CRC
+
+- 🏷 Command Classification:
+
+- COMMAND_TYPE_ACTION
+
+- COMMAND_TYPE_ENUM_PARAM
+
+- COMMAND_TYPE_RANGE_PARAM
+
+- COMMAND_TYPE_ACK_CHECK
+
+- COMMAND_TYPE_NO_ACK
